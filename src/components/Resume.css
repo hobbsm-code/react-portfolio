@@ -1,0 +1,8 @@
+.resume-container {
+    background-color: var(--background-light-color-2);
+    padding-bottom: 2rem;
+}
+
+#resume-button {
+    color: var(--primary-color);
+}
